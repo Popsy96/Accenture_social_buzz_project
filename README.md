@@ -5,3 +5,4 @@ The use of Excel for data cleaning indicates that the team worked on preparing t
 Overall, this project likely helped Accenture North gain valuable insights into their online presence and audience perception, enabling them to make data-driven decisions and refine their social media strategies.
 
 For data viz link: https://public.tableau.com/views/SocialBuzzAcentureProject/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
+For storytelling :https://youtu.be/RqChTHRXC7c
