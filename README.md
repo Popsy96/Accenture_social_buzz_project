@@ -6,4 +6,4 @@ Overall, this project likely helped Accenture North gain valuable insights into 
 
 For data viz link: https://public.tableau.com/views/SocialBuzzAcentureProject/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
-For storytelling:https://youtu.be/RqChTHRXC7c
+For storytelling: https://youtu.be/dDcS89gUqhI?si=txDKjL5CPAsnI_C9
