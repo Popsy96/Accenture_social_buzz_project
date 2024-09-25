@@ -32,12 +32,13 @@ The **Accenture Social Buzz Project** combines **data cleaning in Excel** and **
 ---
 
 ## 📂 Files in this Repository:
-- `SocialBuzz_Data_Cleaned.xlsx`: The cleaned dataset used for analysis.
-- `SocialBuzz_Tableau_Workbook.twbx`: The Tableau workbook with interactive visualizations.
+- `SocialBuzz_Data_Cleaned.xlsx`: The cleaned dataset used for analysis..
 - `SocialBuzz_Project_Report.pdf`: A detailed report on the project with insights and recommendations.
 
 ---
 
 ## 🤝 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Email Me](mailto:your-email@example.com)
+Feel free to connect with me to discuss the project, share insights, or collaborate on future projects!
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- [Email](mailto:your-email@example.com)
